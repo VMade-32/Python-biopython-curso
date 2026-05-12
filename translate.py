@@ -6,7 +6,7 @@ CODON_TABLE: dict[str, str] = {
     "UUA": "Leu", "UUG": "Leu",
     "CUU": "Leu", "CUC": "Leu", "CUA": "Leu", "CUG": "Leu",
     "AUU": "Ile", "AUC": "Ile", "AUA": "Ile",
-    "AUG": "Met",  # Start codon
+    "AUG": "Met",  
     "GUU": "Val", "GUC": "Val", "GUA": "Val", "GUG": "Val",
     "UCU": "Ser", "UCC": "Ser", "UCA": "Ser", "UCG": "Ser",
     "CCU": "Pro", "CCC": "Pro", "CCA": "Pro", "CCG": "Pro",
